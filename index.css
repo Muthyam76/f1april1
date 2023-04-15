@@ -1,0 +1,24 @@
+
+header{
+    padding:10px;
+    border:2px solid #1E1E1E;
+}
+section{
+    margin:10px;
+}
+img{
+    padding:10px;
+    height:500px;
+    /* width:100px; */
+}
+a{
+    color:black;
+}
+.foot{
+    border:2px solid yellow;
+
+
+}
+h1,h2{
+    text-decoration:underline;
+}
